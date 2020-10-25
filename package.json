@@ -1,0 +1,19 @@
+{
+  "name": "peerjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "peer": "^0.5.3"
+  },
+  "engines":{
+    "node":"12.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
